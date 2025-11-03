@@ -50,20 +50,26 @@ Fuse rating calculation for field and armature:
 
 ## Tabulation for Open Circuit Test and  Load Test and output:
 
-![WhatsApp Image 2025-09-16 at 23 09 25_69f2e11f](https://github.com/user-attachments/assets/3b562f0d-6483-4b67-99da-fce06482b127)
+![WhatsApp Image 2025-11-03 at 09 20 49_eb660f72](https://github.com/user-attachments/assets/0a449da2-36ee-4abe-8e6a-4e471e2a6973)
 
-![WhatsApp Image 2025-09-16 at 23 09 25_98baae58](https://github.com/user-attachments/assets/544137e0-477e-4281-9eaf-f840fd474e5b)
+![WhatsApp Image 2025-11-03 at 09 20 50_5921d5f8](https://github.com/user-attachments/assets/071552d6-d68c-492f-9653-8583716293f5)
 
-![WhatsApp Image 2025-09-16 at 23 09 25_dea8ae95](https://github.com/user-attachments/assets/bb37443b-09b3-4c87-b502-e83a06149a48)
+![WhatsApp Image 2025-11-03 at 09 20 52_f89d9ba5](https://github.com/user-attachments/assets/44d33bf0-65d9-4ab2-bd3e-6dfa5d97a0c5)
 
-![WhatsApp Image 2025-09-16 at 23 09 26_3e645aaa](https://github.com/user-attachments/assets/c7b1b0c6-1333-4b6f-b575-4fa1aa1ee521)
+![WhatsApp Image 2025-11-03 at 09 20 52_4f5bb3e4](https://github.com/user-attachments/assets/fdad5b73-15db-4ac2-979c-77151ad856f5)
 
+![WhatsApp Image 2025-11-03 at 09 20 53_f6a70d6e](https://github.com/user-attachments/assets/478ed8a8-557a-4e86-8ca5-e567d67b6684)
+
+![WhatsApp Image 2025-11-03 at 09 20 54_90d4a464](https://github.com/user-attachments/assets/8024f95b-29c5-4c4b-add0-786543412d97)
+
+![WhatsApp Image 2025-11-03 at 09 20 55_f637ad2a](https://github.com/user-attachments/assets/4c3b3fd9-8180-4d13-bc91-4287e45abd4a)
 
 <img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/b0346d73-44a3-4dba-9b1f-d70301cac158" />
+
 <img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/96395d38-dc08-48f3-b571-a34078c545bc" />
 
-
 <img width="1370" height="626" alt="image" src="https://github.com/user-attachments/assets/4395226d-7c9d-434a-9352-8df720a22892" />
+
 <img width="1373" height="463" alt="image" src="https://github.com/user-attachments/assets/40dd5e1a-f4f8-4517-9fd3-01d59f710850" />
 
 
